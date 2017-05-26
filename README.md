@@ -1,1 +1,1 @@
-# HackerRank---DataStructures
+# HackerRank-DataStructures
